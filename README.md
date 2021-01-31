@@ -1,7 +1,7 @@
 # Algorithm-Foundations-of-Data-Science
-### 020-2021 Fall (Algorithm Foundations of Data Science) 数据科学与工程算法项目与笔记
+### 2020-2021 Fall (Algorithm Foundations of Data Science) 数据科学与工程算法项目与笔记
 
-## 识点（依照章节划分）
+## 知识点（依照章节划分）
 
 ### 1.尾概率不等式
 ### 2.抽样算法
